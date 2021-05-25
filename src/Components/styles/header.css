@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: black;
+}
+.barra{
+    display: inherit;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 70%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(105, 104, 122);
+}
+.barra a{
+    text-decoration: none;
+    color: white;
+}

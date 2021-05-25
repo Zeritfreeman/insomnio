@@ -1,0 +1,33 @@
+footer{
+    margin-bottom: -15px;
+    width: 70%;
+    margin-left: 15%;
+    height: 100px;
+    background-color: black;
+
+    display: flex;
+    justify-content: left;
+    
+
+}
+.cajasblancas{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 15%;
+    height: 100%;
+    width: 30%;
+}
+
+.caja{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
